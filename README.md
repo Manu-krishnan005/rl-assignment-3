@@ -1,7 +1,7 @@
 # Warehouse Robot MDP — RL Assignment 3
 
 > **Interactive Finite MDP prototype** built with vanilla HTML/CSS/JavaScript.  
-> Live demo → **[https://manukarthik2003.github.io/rl-assignment-3/](https://manukarthik2003.github.io/rl-assignment-3/)**
+> Live demo → **[https://Manu-krishnan005.github.io/rl-assignment-3/](https://Manu-krishnan005.github.io/rl-assignment-3/)**
 
 ## Problem: Autonomous Warehouse Robot Navigation
 
